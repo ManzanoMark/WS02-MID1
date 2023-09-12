@@ -50,7 +50,7 @@ section .text img{
   border-radius: 40px;
 }
 section .profile img {
-  width: 40%;
+  width: 50%;
   height: 60vh;
   display: block;
   margin: 0 auto;
