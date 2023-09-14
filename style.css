@@ -70,13 +70,14 @@ section.img{
 }
 section ul{
   margin-left: 20px;
+  font-style:Times new Roman;
 }
 .text p {
   color: rgb(66, 33, 33);
   margin-left: 20px;
   text-size-adjust: 10;
   line-height: 30px;
-  font-style:Tahoma;
+  font-style:Times new roman;
 }
 .text h1{
 text-align: center;
